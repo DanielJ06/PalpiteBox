@@ -4,7 +4,7 @@ import Link from 'next/link';
 
 function Footer() { 
   return (
-    <div className="bg-gray-900 py-8 px-10 flex flex-row justify-between items-center">
+    <footer className="w-full text-center border-t border-grey p-4 pin-b">
       <img src="/logo_paplpitebox.png"/>
       <div>
         <Link href="/">
@@ -17,7 +17,7 @@ function Footer() {
           <a className="text-white text-xl font-bold ml-10 hover:text-green-400">CONTATO</a>
         </Link>
       </div>
-    </div>
+    </footer>
   );
 }
 
