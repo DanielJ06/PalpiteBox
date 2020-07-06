@@ -10,10 +10,10 @@ function Header() {
         <Link href="/">
           <a className="text-white text-xl font-bold ml-10 hover:text-green-400">HOME</a>
         </Link>
-        <Link href="/about">
+        <Link href="/">
           <a className="text-white text-xl font-bold ml-10 hover:text-green-400">SOBRE</a>
         </Link>
-        <Link href="/contact">
+        <Link href="/">
           <a className="text-white text-xl font-bold ml-10 hover:text-green-400">CONTATO</a>
         </Link>
       </div>

@@ -10,7 +10,7 @@ const Index = () => {
           estabelecimento X
           </span> se preocupa com os clientes
       </h1>
-      <h3 className="text-4xl font-bold text-white mt-4">por isso estamos abertos para a opiniões</h3>
+      <h3 className="text-4xl font-bold text-white mt-4">por isso estamos abertos para ouvir suas opiniões</h3>
       <div className='my-16'>
         <Link href='/feedback'>
           <a className='bg-green-500 px-20 py-6 text-2xl font-bold rounded-lg shadow-lg text-white hover:bg-green-400'>
