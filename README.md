@@ -1,5 +1,9 @@
 # :rocket: PalpiteBox - Semana Fullstack Master
 
+<p align="center">
+   <img src=".github/preview.PNG" width="500"/>
+</p>
+
 Este projeto foi construído durante a Semana Fullstack Master do [DevPleno](https://devpleno.com). Uma versão online deste projeto pode ser encontrada em: https://palpite-box.tuliofaria.dev/.
 
 ### Pré-requisitos:
